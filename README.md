@@ -6,10 +6,11 @@ Landing page del **fondo de inversión INDJAX CAPITAL**, desarrollada en **HTML 
 
 ## 🚀 Demo en línea
 La página está publicada en **GitHub Pages**:  
-👉 [Ver sitio web](https://(https://github.com/AxlCrz2003).github.io/indjax-capital/)
+👉 [Ver sitio web](https://https://github.com/AxlCrz2003.github.io/indjax-capital/)
 
 ---
 
 ## 📂 Estructura del proyecto
+
 
 
